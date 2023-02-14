@@ -10,7 +10,9 @@ span {
 }
 
 header {
-  padding: 20px;
+  margin-bottom: 20px;
+  background-color: white;
+  height: 150px;
 }
 
 body {
@@ -23,13 +25,17 @@ body {
 }
 .logo {
   width: 100px;
-  margin-top: 30px;
-  margin-left: 40px;
+  vertical-align: middle;
+ line-height: 150px;
+ margin-left: 20px;
+
 }
 .titolo {
 font-weight: bold;
 font-size: 80px;
 margin-left: 20px;
+vertical-align: middle;
+line-height: 150px;
 }
 main {
   text-align: left;
@@ -103,16 +109,14 @@ h2 {
   margin: 0;
 
 }
-.spazio {
- padding: 20px;
-}
+
 
 .rossa {
   margin: 0 auto;
-  border-color: green;
-  border: 2px solid green;
+  border-color: red;
+  border: 2px solid red;
   margin-left: 20px;
-  color: green;
+  color: red;
   background-color:white
   height: 50px;
   width: 50px;
@@ -120,4 +124,40 @@ h2 {
   vertical-align: middle;
   line-height: 30px;
   border-radius: 100%;
+}
+
+.greenbox {
+  width: 320px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid black;
+  color: white;
+  background-color: green;
+  margin: 0;
+
+}
+
+.arancio {
+  width: 320px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid black;
+  color: white;
+  background-color: orange;
+  margin: 0;
+}
+
+.fucsia {
+  width: 320px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid black;
+  color: white;
+  background-color: violet;
+  margin: 0;
+}
+.linea {
+  line-height: 60px;
+  vertical-align: middle;
+
 }
