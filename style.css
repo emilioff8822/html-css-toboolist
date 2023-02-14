@@ -43,10 +43,8 @@ main {
 }
 
 .conteiner {
-  width: 100px;
   background-color: white;
   margin: 0 auto;
-  padding: 20px;
   width: 60%;
 }
 
@@ -62,7 +60,7 @@ main {
 .bianco {
 
  width: 320px;
-  padding: 10px;
+ padding: 10px;
   border-radius: 10px;
   border: 1px solid rgb(177, 177, 177);
   color: rgb(226, 221, 221)
@@ -70,7 +68,6 @@ main {
   margin: 0;
 }
 .conteiner2 {
-  width: 100px;
   background-color: white;
   margin: 0 auto;
   padding: 20px;
@@ -83,14 +80,13 @@ h2 {
 }
 
 .verde {
-  margin: 0 auto;
   border-color: green;
-  border: 2px solid green;
+  border: 1px solid green;
   margin-left: 20px;
   color: green;
   background-color:white
-  height: 50px;
-  width: 50px;
+  height: 200px;
+  width: 200px;
   text-align: center;
   vertical-align: middle;
   line-height: 30px;
@@ -112,14 +108,13 @@ h2 {
 
 
 .rossa {
-  margin: 0 auto;
   border-color: red;
-  border: 2px solid red;
+  border: 1px solid red;
   margin-left: 20px;
   color: red;
   background-color:white
-  height: 50px;
-  width: 50px;
+  height: 100px;
+  width: 100px;
   text-align: center;
   vertical-align: middle;
   line-height: 30px;
