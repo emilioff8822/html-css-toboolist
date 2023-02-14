@@ -1,0 +1,123 @@
+
+*{
+  margin: 0px;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+span {
+  font-weight: 800;
+}
+
+header {
+  padding: 20px;
+}
+
+body {
+  background-color: aliceblue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.head{
+  background-color: white;
+  height: 150px;
+}
+.logo {
+  width: 100px;
+  margin-top: 30px;
+  margin-left: 40px;
+}
+.titolo {
+font-weight: bold;
+font-size: 80px;
+margin-left: 20px;
+}
+main {
+  text-align: left;
+  padding: 20px;
+}
+
+.conteiner {
+  width: 100px;
+  background-color: white;
+  margin: 0 auto;
+  padding: 20px;
+  width: 60%;
+}
+
+.blu {
+  width: 320px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid black;
+  color: white;
+  background-color: rgb(35, 122, 194);
+  margin: 0;
+}
+.bianco {
+
+ width: 320px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid rgb(177, 177, 177);
+  color: rgb(226, 221, 221)
+  background-color: white
+  margin: 0;
+}
+.conteiner2 {
+  width: 100px;
+  background-color: white;
+  margin: 0 auto;
+  padding: 20px;
+  width: 60%;
+  margin-top: 5px;
+}
+h2 {
+  padding: 20px;
+  
+}
+
+.verde {
+  margin: 0 auto;
+  border-color: green;
+  border: 2px solid green;
+  margin-left: 20px;
+  color: green;
+  background-color:white
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 30px;
+  border-radius: 100%;
+  
+
+}
+
+.viola {
+  width: 320px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid black;
+  color: white;
+  background-color: blueviolet;
+  margin: 0;
+
+}
+.spazio {
+ padding: 20px;
+}
+
+.rossa {
+  margin: 0 auto;
+  border-color: green;
+  border: 2px solid green;
+  margin-left: 20px;
+  color: green;
+  background-color:white
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 30px;
+  border-radius: 100%;
+}
